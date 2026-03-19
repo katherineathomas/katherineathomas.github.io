@@ -11,4 +11,4 @@ redirect_from:
 
 [Download CV](https://katherineathomas.github.io/files/CV.pdf)
 
-<embed src="https://katherineathomas.github.io/files/CV.pdf" type="application/pdf" width="600px" height="500px" />
+<embed src="https://katherineathomas.github.io/files/CV.pdf" type="application/pdf" width="1000px" height="500px" />
