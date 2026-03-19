@@ -15,13 +15,12 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "yosemite_crop3.png"
-  name             : ""
+  name             : "Katherine Thomas"
   pronouns         : "" 
-  bio              : "PhD Candidate, NYU Sociology"
+  bio              : "PhD Candidate, NYU Sociology  
+                     [katethomas@nyu.edu](mailto:katethomas@nyu.edu)"
   # location         : ""
   # employer         : ""
-  uri              : # URL
-  email            : "katethomas@nyu.edu" 
 
   # Academic websites
   academia         : # URL
