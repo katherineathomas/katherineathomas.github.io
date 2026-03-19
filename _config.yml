@@ -17,10 +17,8 @@ author:
   avatar           : "yosemite_crop3.png"
   name             : "Katherine Thomas"
   pronouns         : "" 
-  bio              : "PhD Candidate, NYU Sociology  
-                     [katethomas@nyu.edu](mailto:katethomas@nyu.edu)"
-  # location         : ""
-  # employer         : ""
+  bio              : "PhD Candidate, NYU Sociology"
+  email            : "katethomas@nyu.edu" 
 
   # Academic websites
   academia         : # URL
