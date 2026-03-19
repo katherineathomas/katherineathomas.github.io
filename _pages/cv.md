@@ -9,6 +9,6 @@ redirect_from:
 
 {% include base_path %}
 
-[Download CV](https://katherineathomas.github.io/files/CV.pdf)
+Download my CV [here](https://katherineathomas.github.io/files/CV.pdf)
 
 <embed src="https://katherineathomas.github.io/files/CV.pdf" type="application/pdf" width="1000px" height="500px" />
