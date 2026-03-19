@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Katherine Thomas | NYU Sociology"
+title                    : "Katherine Thomas"
 title_separator          : "-"
 name                     : &name "Katherine Thomas"
 description              : &description "Katherine Thomas, PhD Candidate in Sociology at NYU" # update this with my keywords 
@@ -17,9 +17,9 @@ author:
   avatar           : "profile.png"
   name             : ""
   pronouns         : "" 
-  bio              : "PhD Candidate in Sociology at NYU"
-  location         : ""
-  employer         : ""
+  bio              : "PhD Candidate, NYU Sociology"
+  # location         : ""
+  # employer         : ""
   uri              : # URL
   email            : "katethomas@nyu.edu" 
 
@@ -29,10 +29,10 @@ author:
   googlescholar    : "https://scholar.google.com/citations?hl=en&user=4zGN8TwAAAAJ&view_op=list_works&gmla=AF9nlQslc0q78pldWzAtiPU5ALbED5rkAGNR08mDf_5FsvcW5GpKpWvrRioOlY0eqBkcnbJRgKUgeMUvkl4dH_tD"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0009-0001-6107-6688"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : ""
   researchgate     : # URL
   scopus           : # URL
   zotero           : # URL
@@ -48,7 +48,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
