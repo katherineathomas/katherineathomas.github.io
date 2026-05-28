@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-Welcome! I am a PhD candidate at NYU. I am a quantitative sociologist studying how housing markets produce and reproduce racial and spatial inequality. My current projects explore this both in the present and historically. 
+Welcome! I am a PhD candidate at NYU. I am a quantitative sociologist studying how housing markets produce and reproduce racial and spatial inequality. 
 
 In one project, I study how climate change is reshaping housing markets and residential mobility processes. I show how housing market processes are producing new forms of environmental racial inequality, as advantaged households increasingly sort away from flood risk while disadvantaged households remain concentrated in – or move into – high risk neighborhoods. One paper from this project is forthcoming in *Demography* and was recognized with an honorable mention by the ASA Race, Gender and Class graduate paper award.  
 
