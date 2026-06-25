@@ -14,3 +14,15 @@
 
 <!-- For all browsers -->
 <link rel="stylesheet" href="{{ base_path }}/assets/css/main.css">
+
+<!-- Explicit Site Name SEO Signals -->
+<meta property="og:site_name" content="{{ site.title }}">
+
+<script type="application/ld+json">
+{
+  "@context" : "https://schema.org",
+  "@type" : "WebSite",
+  "name" : "{{ site.title }}",
+  "url" : "{{ site.url }}/"
+}
+</script>
